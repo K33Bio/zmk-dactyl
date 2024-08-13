@@ -17,3 +17,10 @@
 #     artifact-name: corne_left_with_logging
 #
 ---
+include:
+  - board: seeeduino_xiao_ble
+    shield: dactyl_3key_4x5_left
+  - board: seeeduino_xiao_ble
+    shield: dactyl_3key_4x5_right
+  - board: seeeduino_xiao_ble
+    shield: settings_reset
