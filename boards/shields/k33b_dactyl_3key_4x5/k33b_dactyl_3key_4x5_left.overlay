@@ -1,4 +1,4 @@
-#include "dactyl_3key_4x5.dtsi"
+#include "k33b_dactyl_3key_4x5.dtsi"
 
 &kscan0 {
 	row-gpios

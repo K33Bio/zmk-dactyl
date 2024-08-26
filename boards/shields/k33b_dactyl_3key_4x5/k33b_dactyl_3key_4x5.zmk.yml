@@ -1,5 +1,5 @@
 file_format: "1"
-id: dactyl_3key_4x5
+id: k33b_dactyl_3key_4x5
 name: Dactyl-3Key-4x5
 type: shield
 url: https://github.com/K33Bio/zmk-dactyl
@@ -8,5 +8,5 @@ requires:
 features:
   - keys
 siblings:
-  - dactyl_3key_4x5_left
-  - dactyl_3key_4x5_right
+  - k33b_dactyl_3key_4x5_left
+  - k33b_dactyl_3key_4x5_right
